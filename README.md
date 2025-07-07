@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Manoj Kale
 
 Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-- 🌱 **I’m currently learning:**  web development
+- 🌱 **I’m currently learning:**  Full Stack Developer
 - 💬 Ask me about: Collaboration | Tech Support
 - 📫 **How to reach me:** manojkale187@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
