@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 
 - 💬 Ask me about: Collaboration | Tech Support
 
-- 💻 **My Portfolio :** https://manoj-portfolio-theta-six.vercel.app
+- 💻 **My Portfolio :** https://www.manojkale.tech
  
 - 📫 **How to reach me:** manojkale187@gmail.com
   
