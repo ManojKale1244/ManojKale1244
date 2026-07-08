@@ -18,8 +18,11 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 
 
 ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=ManojKale1244&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojKale1244&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
