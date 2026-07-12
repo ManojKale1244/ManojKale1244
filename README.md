@@ -27,7 +27,7 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ManojKale1244&show_icons=true&theme=radical&count_private=true"/>
+<img src="https://streak-stats.demolab.com?user=ManojKale1244&theme=radical"/>
 </p>
 
 
