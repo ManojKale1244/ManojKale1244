@@ -20,13 +20,11 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 
 <img src="https://komarev.com/ghpvc/?username=ManojKale1244&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
-<a href="https://github.com/ManojKale1244">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
-</a>
+<p align="center">
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,typescript,tailwind,git,github,docker&perline=5"/>
+
+</p>
 
 
 ## 🏆 Achievements
