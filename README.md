@@ -26,6 +26,17 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 
 </p>
 
+```bash
+┌──(manoj㉿github)-[~/projects]
+
+$ whoami
+Manoj Kale
+
+$ skills
+React | Node | MongoDB | Next.js
+
+$ status
+Building scalable applications 🚀
 
 ## 🏆 Achievements
 
