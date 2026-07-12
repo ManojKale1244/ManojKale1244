@@ -1,5 +1,3 @@
- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF00&width=600&lines=%24+npm+run+dev;%24+Building+Full+Stack+Apps;%24+Learning+System+Design"/>
- 
 # 💫 Hi 👋, I'm Manoj Kale
 Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Anything Else. 😊😊
  <img align="right" alt="Coding" width="250px" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U"><br/>
@@ -13,7 +11,7 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
   
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 <br/>
-
+                               <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF00&width=600&lines=%24+npm+run+dev;%24+Building+Full+Stack+Apps;%24+Learning+System+Design"/>
 
 ## 🏆 Achievements
 
