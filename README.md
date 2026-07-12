@@ -16,6 +16,9 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:667eea,100:764ba2&text=Manoj%20Kale&fontSize=70&fontColor=ffffff"/>
 
 
+<img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="400"/>
+
+
 ## 🏆 Achievements
 
 <img src="https://img.shields.io/badge/GitHub-Developer%20Program%20Member-black?style=for-the-badge&logo=github"/>
