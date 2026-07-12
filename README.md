@@ -13,6 +13,9 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 <br/>
                                <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF00&width=600&lines=%24+npm+run+dev;%24+Building+Full+Stack+Apps;%24+Learning+System+Design"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojKale1244&theme=react-dark"/>
+                               
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:667eea,100:764ba2&text=Manoj%20Kale&fontSize=70&fontColor=ffffff"/>
 
 
@@ -40,7 +43,6 @@ I am a member of the GitHub Developer Program, building and integrating applicat
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojKale1244&theme=react-dark"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
