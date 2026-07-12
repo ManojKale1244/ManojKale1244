@@ -15,7 +15,6 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:667eea,100:764ba2&text=Manoj%20Kale&fontSize=70&fontColor=ffffff"/>
 
-<img src="https://komarev.com/ghpvc/?username=ManojKale1244&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 <p align="center">
 
