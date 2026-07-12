@@ -15,6 +15,9 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF00&width=600&lines=%24+npm+run+dev;%24+Building+Full+Stack+Apps;%24+Learning+System+Design"/>
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
+
 ## 🏆 Achievements
 
 <img src="https://img.shields.io/badge/GitHub-Developer%20Program%20Member-black?style=for-the-badge&logo=github"/>
