@@ -26,17 +26,13 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 
 </p>
 
-```bash
-┌──(manoj㉿github)-[~/projects]
 
-$ whoami
-Manoj Kale
+---
 
-$ skills
-React | Node | MongoDB | Next.js
+## 13. Spotify / Coding Animation 🎵
 
-$ status
-Building scalable applications 🚀
+```md
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_ID&cover_image=true">
 
 ## 🏆 Achievements
 
