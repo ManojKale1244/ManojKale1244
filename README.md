@@ -26,7 +26,7 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 
 </p>
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojKale1244&theme=react-dark"/>
 
 
 ## 🏆 Achievements
