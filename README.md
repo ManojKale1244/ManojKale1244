@@ -40,11 +40,9 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 <img src="https://streak-stats.demolab.com?user=ManojKale1244&theme=radical"/>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ManojKale1244&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ManojKale1244&theme=radical&no-frame=true&margin-w=10"/>
+</p>
 
 
 # 📊 GitHub Stats:
