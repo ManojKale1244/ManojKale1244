@@ -18,7 +18,7 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 
 <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="400"/>
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img src="https://komarev.com/ghpvc/?username=ManojKale1244&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 
 ## 🏆 Achievements
