@@ -16,9 +16,6 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojKale1244&theme=react-dark"/>
                                
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:667eea,100:764ba2&text=Manoj%20Kale&fontSize=70&fontColor=ffffff"/>
-
-
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,typescript,tailwind,git,github,docker&perline=5"/>
