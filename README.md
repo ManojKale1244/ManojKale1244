@@ -25,15 +25,6 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,typescript,tailwind,git,github,docker&perline=5"/>
 
 </p>
-
-
----
-
-## 13. Spotify / Coding Animation 🎵
-
-```md
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_ID&cover_image=true">
-
 ## 🏆 Achievements
 
 <img src="https://img.shields.io/badge/GitHub-Developer%20Program%20Member-black?style=for-the-badge&logo=github"/>
@@ -54,6 +45,9 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojKale1244&theme=react-dark"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
