@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Any
 <br/>
                                <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF00&width=600&lines=%24+npm+run+dev;%24+Building+Full+Stack+Apps;%24+Learning+System+Design"/>
 
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:667eea,100:764ba2&text=Manoj%20Kale&fontSize=70&fontColor=ffffff"/>
 
 <img src="https://komarev.com/ghpvc/?username=ManojKale1244&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
